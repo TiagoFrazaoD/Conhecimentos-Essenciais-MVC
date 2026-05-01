@@ -3,52 +3,60 @@
   "WorkspaceRootPath": "C:\\Projetos\\ConhecimentosEssenciais\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\modulos\\vendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\modulos\\vendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\views\\shared\\_layoutfull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\shared\\_layoutfull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\modulos\\produtos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\modulos\\produtos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\modulos\\vendas\\controllers\\gestaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\modulos\\vendas\\controllers\\gestaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\modulos\\vendas\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\modulos\\vendas\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\modulos\\produtos\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\modulos\\produtos\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\modulos\\produtos\\views\\cadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\modulos\\produtos\\views\\cadastro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\modulos\\vendas\\views\\gestao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\modulos\\vendas\\views\\gestao\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\wwwroot\\js\\site.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\wwwroot\\js\\site.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\modulos\\produtos\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\modulos\\produtos\\controllers\\cadastrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\wwwroot\\js\\cep.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\wwwroot\\js\\cep.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|c:\\projetos\\conhecimentosessenciais\\src\\appsemtemplate\\extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF9A42B-CDD7-15DA-A5F0-D05E4836AA48}|src\\AppSemTemplate\\AppSemTemplate.csproj|solutionrelative:src\\appsemtemplate\\extensions\\botaotaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,157 +71,183 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "src\\AppSemTemplate\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Vendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Modulos\\Vendas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Vendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Modulos\\Vendas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-28T09:33:38.223Z",
+              "WhenOpened": "2026-05-01T22:09:38.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_LayoutFull.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_LayoutFull.cshtml",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Shared\\_LayoutFull.cshtml",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_LayoutFull.cshtml",
-              "RelativeToolTip": "src\\AppSemTemplate\\Views\\Shared\\_LayoutFull.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB2AAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Produtos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Modulos\\Produtos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Produtos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Modulos\\Produtos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-28T09:32:27.989Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Properties\\launchSettings.json",
-              "RelativeToolTip": "src\\AppSemTemplate\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-28T09:29:38.18Z",
+              "WhenOpened": "2026-05-01T22:07:54.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "site.min.js",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\js\\site.min.js",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\wwwroot\\js\\site.min.js",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\js\\site.min.js",
-              "RelativeToolTip": "src\\AppSemTemplate\\wwwroot\\js\\site.min.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-28T09:16:55.776Z",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Vendas\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Modulos\\Vendas\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Vendas\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Modulos\\Vendas\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T22:02:27.655Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "src\\AppSemTemplate\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-28T09:12:45.811Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "cep.js",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\js\\cep.js",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\wwwroot\\js\\cep.js",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\js\\cep.js",
-              "RelativeToolTip": "src\\AppSemTemplate\\wwwroot\\js\\cep.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-28T09:12:29.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "src\\AppSemTemplate\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-28T09:04:08.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "bundleconfig.json",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\bundleconfig.json",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\bundleconfig.json",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\bundleconfig.json",
-              "RelativeToolTip": "src\\AppSemTemplate\\bundleconfig.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-28T09:03:13.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "src\\AppSemTemplate\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-28T08:54:12.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\_ViewStart.cshtml",
               "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "src\\AppSemTemplate\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-28T08:50:46.855Z",
+              "WhenOpened": "2026-05-01T22:00:31.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Produtos\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Modulos\\Produtos\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Produtos\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Modulos\\Produtos\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-28T08:39:23.18Z",
+              "WhenOpened": "2026-05-01T22:01:20.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Modulos\\Produtos\\Views\\Cadastro\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T21:56:50.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CadastroController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Produtos\\Controllers\\CadastroController.cs",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Modulos\\Produtos\\Controllers\\CadastroController.cs",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Produtos\\Controllers\\CadastroController.cs",
+              "RelativeToolTip": "src\\AppSemTemplate\\Modulos\\Produtos\\Controllers\\CadastroController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:56:23.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "libman.json",
-              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\libman.json",
-              "RelativeDocumentMoniker": "src\\AppSemTemplate\\libman.json",
-              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\libman.json",
-              "RelativeToolTip": "src\\AppSemTemplate\\libman.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-28T08:33:32.175Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T21:53:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Vendas\\Views\\Gestao\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Modulos\\Vendas\\Views\\Gestao\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Vendas\\Views\\Gestao\\Index.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Modulos\\Vendas\\Views\\Gestao\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T21:51:43.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestaoController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Vendas\\Controllers\\GestaoController.cs",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Modulos\\Vendas\\Controllers\\GestaoController.cs",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Modulos\\Vendas\\Controllers\\GestaoController.cs",
+              "RelativeToolTip": "src\\AppSemTemplate\\Modulos\\Vendas\\Controllers\\GestaoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:51:10.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "src\\AppSemTemplate\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-01T21:35:05.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BotaoTagHelper.cs",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Extensions\\BotaoTagHelper.cs",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Extensions\\BotaoTagHelper.cs",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Extensions\\BotaoTagHelper.cs",
+              "RelativeToolTip": "src\\AppSemTemplate\\Extensions\\BotaoTagHelper.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwE0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:27:52.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "src\\AppSemTemplate\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-01T21:22:15.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "src\\AppSemTemplate\\Program.cs",
+              "ToolTip": "C:\\Projetos\\ConhecimentosEssenciais\\src\\AppSemTemplate\\Program.cs",
+              "RelativeToolTip": "src\\AppSemTemplate\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T09:23:55.118Z",
               "EditorCaption": ""
             }
           ]

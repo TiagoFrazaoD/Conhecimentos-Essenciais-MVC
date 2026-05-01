@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>@ViewData["Title"] - AppSemTemplate</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 
     <environment include="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/css/bootstrap.css" />
@@ -22,6 +23,15 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Produtos" asp-action="Index">Produtos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="Vendas" asp-controller="Gestao" asp-action="Index">Gestão de Vendas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="Produtos" asp-controller="Cadastro" asp-action="Index">Gestão de Produtos</a>
                         </li>
                     </ul>
                 </div>
@@ -50,5 +60,7 @@
         <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
         <script src="~/js/site.min.js"></script>
     </environment>
+
+    @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>
