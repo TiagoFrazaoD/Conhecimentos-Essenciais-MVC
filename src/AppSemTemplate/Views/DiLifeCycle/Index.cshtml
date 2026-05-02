@@ -1,0 +1,13 @@
+﻿@using AppSemTemplate.Services
+@inject OperacaoServico operacao
+
+<div>
+    <p>
+        @Html.Raw(
+            operacao.Transient.OperacaoId + "<br>" +
+            operacao.Scoped.OperacaoId + "<br>" +
+            operacao.Singleton.OperacaoId + "<br>" +
+            operacao.SingletonInstance.OperacaoId + "<br>"
+        )
+    </p>
+</div>
