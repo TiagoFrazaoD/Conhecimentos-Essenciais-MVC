@@ -280,4 +280,8 @@ obj/
 /node_modules
 /wwwroot/node_modules
 
+# Claude Code
+.claude/
+CLAUDE.md
+
 # End of https://www.toptal.com/developers/gitignore/api/dotnetcore,aspnetcore
