@@ -1,4 +1,6 @@
-﻿using AppSemTemplate.Services;
+﻿using AppSemTemplate.Extensions;
+using AppSemTemplate.Services;
+using Microsoft.AspNetCore.Mvc.DataAnnotations;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace AppSemTemplate.Configuration
@@ -15,6 +17,8 @@ namespace AppSemTemplate.Configuration
             builder.Services.AddSingleton<IOperacaoSingletonInstance>(new Operacao(Guid.Empty));
 
             builder.Services.AddTransient<OperacaoServico>();
+
+            builder.Services.AddSingleton<IValidationAttributeAdapterProvider, MoedaValidationAttributeAdapterProvider>();
 
             return builder;
         }

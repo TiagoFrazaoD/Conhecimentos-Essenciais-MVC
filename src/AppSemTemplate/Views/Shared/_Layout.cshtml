@@ -51,16 +51,28 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            <p>Seu site ASP.NET feito do jeito certo!!</p>
+            <div class="d-flex justify-content-between">
+                <div class="text-start">
+                    Seu site ASP.NET feito do jeito certo!!
+                </div>
+                @*                <div class="text-end">
+                Idioma selecionado: @System.Globalization.CultureInfo.CurrentCulture.Name
+                </div>*@
+                <div class="text-end">
+                    <partial name="_SelectLanguagePartial" />
+                </div>
+            </div>
         </div>
     </footer>
 
     <environment include="Development">
+        <script src="~/lib/jquery/jquery.js"></script>
         <script src="~/lib/bootstrap/js/bootstrap.bundle.js"></script>
         <script src="~/js/site.js"></script>
         <script src="~/js/cep.js"></script>
     </environment>
     <environment exclude="Development">
+        <script src="~/lib/jquery/jquery.min.js"></script>
         <script src="~/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
         <script src="~/js/site.min.js"></script>
     </environment>

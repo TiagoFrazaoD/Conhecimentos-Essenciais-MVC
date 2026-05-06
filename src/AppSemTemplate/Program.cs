@@ -6,7 +6,8 @@ public partial class Program
     {
         var builder = WebApplication.CreateBuilder(args);
 
-        builder.AddIdentityConfiguration()
+        builder.AddGlobalizationConfig()
+               .AddIdentityConfiguration()
                .AddMvcConfiguration()
                .AddDependdencyInjectionConfiguration();
 
