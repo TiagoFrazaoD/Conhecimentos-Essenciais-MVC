@@ -21,6 +21,8 @@ namespace AppSemTemplate.Controllers
             ApiConfig = apiConfig.Value;
             _localizer = localizer;
         }
+
+        //[ResponseCache(Duration = 30, Location = ResponseCacheLocation.Any, NoStore = true)]
         public IActionResult Index()
         {
             var env = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
@@ -36,6 +38,13 @@ namespace AppSemTemplate.Controllers
 
             ViewData["Message"] = _localizer["Seja bem vindo!"];
 
+            //ViewData["Horario"] = DateTime.Now;
+
+            if (Request.Cookies.TryGetValue("MeuCookie", out string? cookieValue))
+            {
+                ViewData["MeuCookie"] = cookieValue;
+            }
+
             return View();
         }
 
@@ -48,6 +57,19 @@ namespace AppSemTemplate.Controllers
                 new CookieOptions { Expires = DateTimeOffset.UtcNow.AddYears(1) });
 
             return LocalRedirect(returnUrl);
+        }
+
+        [Route("cookies")]
+        public IActionResult Cookie()
+        {
+            var cookieOptions = new CookieOptions
+            {
+                Expires = DateTimeOffset.UtcNow.AddHours(1),
+            };
+
+            Response.Cookies.Append("MeuCookie", "Dados do Cookie", cookieOptions);
+
+            return View();
         }
 
         [Route("teste")]

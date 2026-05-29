@@ -20,6 +20,8 @@ namespace AppSemTemplate.Configuration
 
             builder.Services.AddSingleton<IValidationAttributeAdapterProvider, MoedaValidationAttributeAdapterProvider>();
 
+            builder.Services.AddHostedService<ImageWatermarkService>();
+
             return builder;
         }
     }
