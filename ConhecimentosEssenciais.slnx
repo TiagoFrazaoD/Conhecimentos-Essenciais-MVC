@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="src/AppSemTemplate/AppSemTemplate.csproj" />
+  <Project Path="tests/Testes/Testes.csproj" Id="2faf9044-feb8-4658-9d7a-c80720b26d2f" />
 </Solution>

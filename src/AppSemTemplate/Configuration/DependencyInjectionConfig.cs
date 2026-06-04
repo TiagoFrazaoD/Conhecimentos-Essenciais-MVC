@@ -16,6 +16,8 @@ namespace AppSemTemplate.Configuration
             builder.Services.AddSingleton<IOperacaoSingleton, Operacao>();
             builder.Services.AddSingleton<IOperacaoSingletonInstance>(new Operacao(Guid.Empty));
 
+            builder.Services.AddSingleton<IIMageUploadService, ImageUploadService>();
+
             builder.Services.AddTransient<OperacaoServico>();
 
             builder.Services.AddSingleton<IValidationAttributeAdapterProvider, MoedaValidationAttributeAdapterProvider>();
